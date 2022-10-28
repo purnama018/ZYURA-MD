@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285724996314','6285724996314','6285724996314']
-global.premium = ['6285724996314']
+global.owner = ['18144573830','18144573830','18144573830']
+global.premium = ['18144573830']
 global.packname = 'ZYURA MD'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
